@@ -1,10 +1,3 @@
-# main.py
-"""
-Destiny 2 WhatsApp Bot
-Copyright (c) 2024 [Gabriel Barboza Baldan]
-Licensed under the MIT License
-"""
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
